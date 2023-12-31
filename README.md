@@ -40,7 +40,8 @@ copy(fname,newfile)
 ~~~
 ### OUTPUT:
 
-![Screenshot 2023-12-31 173928](https://github.com/Sanjaichitra/copy-file/assets/144870518/960f49d3-a6d9-4607-b295-625b05062f2b)
+![Screenshot 2023-12-31 183600](https://github.com/Sanjaichitra/copy-file/assets/144870518/67e5994d-343b-4b6b-ad64-6e4fe9a2d68f)
+
 
 
 ## RESULT:
