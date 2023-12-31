@@ -24,7 +24,7 @@ Get the inputs from the user for existing file and new file. Call the function.
 End the program
 
 ## PROGRAM:
- # Program to find the word count 
+ # python program for copying the contents from one file to another file.
  # Developed by: SANJAI S
  # Register Number: 212223230185
 
